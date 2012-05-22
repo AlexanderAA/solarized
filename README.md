@@ -1,0 +1,4 @@
+solarized
+=========
+
+Solarized .Xresources light
